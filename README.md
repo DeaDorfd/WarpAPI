@@ -5,10 +5,10 @@ WarpAPI for the game Minecraft
 
 It's very simple import this into your plugin and then load the WarpAPI on the server and now you can use the API properly.
 
-This is how the API works:
-WarpAPI.setWarp(player, warpname);
-WarpAPI.warp(player, warpname);
-WarpAPI.delwarp(warpname);
+This is how the API works:<br/>
+WarpAPI.setWarp(player, warpname);<br/>
+WarpAPI.warp(player, warpname);<br/>
+WarpAPI.delwarp(warpname);<br/>
 
 You can download the plugin from SpigotMC (link: https://www.spigotmc.org/resources/warpapi.70278/).
 
