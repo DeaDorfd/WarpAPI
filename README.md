@@ -8,7 +8,7 @@ It's very simple import this into your plugin and then load the WarpAPI on the s
 This is how the API works:<br/>
 WarpAPI.setWarp(player, warpname);<br/>
 WarpAPI.warp(player, warpname);<br/>
-WarpAPI.delwarp(warpname);<br/>
+WarpAPI.delWarp(warpname);<br/>
 
 You can download the plugin from SpigotMC (link: https://www.spigotmc.org/resources/warpapi.70278/).
 
