@@ -10,7 +10,7 @@ WarpAPI.setWarp(player, warpname);<br/>
 WarpAPI.warp(player, warpname);<br/>
 WarpAPI.delWarp(warpname);<br/>
 
-You can download the plugin from SpigotMC (link: https://www.spigotmc.org/resources/warpapi.70278/).
+You can download the plugin from [SpigotMC](https://www.spigotmc.org/resources/warpapi.70278/).
 
 ## For which Minecraft versions does this API work?
 
